@@ -1,2 +1,9 @@
-First line
-From Branch_1
+fun1(){
+fun1_line1
+fun2_line2
+}
+
+fun2(){
+fun2_line1
+fun2_line2
+}
