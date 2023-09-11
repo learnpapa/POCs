@@ -2,6 +2,8 @@ fun1(){
 fun1_line1
 fun2_line2
 branch4_line3_from_branch1
+branch3_line3_from_branch1
+from branch_3
 }
 
 fun2(){
@@ -10,6 +12,12 @@ fun2_line2
 fun2_line3_from_Branch2
 }
 
+
 fun4(){
 from branch4
+}
+
+fun3()
+{
+from branch_3
 }
