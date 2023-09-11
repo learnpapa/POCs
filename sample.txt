@@ -7,4 +7,5 @@ fun2_line3_from_branch1
 fun2(){
 fun2_line1
 fun2_line2
+fun2_line3_from_Branch2
 }
