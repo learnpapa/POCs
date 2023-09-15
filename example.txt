@@ -6,3 +6,9 @@ line2
 fun2(){
 line1
 }
+
+fun3(){
+line1
+line2
+}
+
